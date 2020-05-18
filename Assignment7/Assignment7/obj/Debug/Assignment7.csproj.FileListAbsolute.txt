@@ -1,0 +1,6 @@
+C:\Users\Max Magyar\Documents\Advanced Object-Oriented Programming\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+C:\Users\Max Magyar\Documents\Advanced Object-Oriented Programming\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+C:\Users\Max Magyar\Documents\Advanced Object-Oriented Programming\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+C:\Users\Max Magyar\Documents\Advanced Object-Oriented Programming\Assignment7\Assignment7\obj\Debug\Assignment7.csprojAssemblyReference.cache
+C:\Users\Max Magyar\Documents\Advanced Object-Oriented Programming\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+C:\Users\Max Magyar\Documents\Advanced Object-Oriented Programming\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
